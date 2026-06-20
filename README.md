@@ -15,14 +15,6 @@ A-Level Computer Science project.
 - Flet (UI framework)
 - SQLite3
 
-## How to run
-
-1. Clone the repo
-2. Install dependencies: "pip install flet"
-
-3. Run the app: python main.py
-
-
 ## Project context
 
 Built as part of my A-Level Computer Science coursework. Covers the full
